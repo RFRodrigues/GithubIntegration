@@ -1,0 +1,3 @@
+-> abrir projeto na pasta github-integration
+-> npm i
+-> npm start
